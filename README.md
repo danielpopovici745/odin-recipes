@@ -19,5 +19,5 @@
   <li> Using Git only through the terminal to complete a project</li>
 </ul>
 
-# Creator
+# Created By:
 ### Daniel Popovici
